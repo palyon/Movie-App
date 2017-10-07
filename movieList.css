@@ -13,3 +13,9 @@ body {
 .results {
   margin-top: 10px;
 }
+
+.launch-watchlist {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
